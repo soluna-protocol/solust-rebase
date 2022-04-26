@@ -989,9 +989,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@solana/web3.js@npm:^1.39.1":
-  version: 1.39.1
-  resolution: "@solana/web3.js@npm:1.39.1"
+"@solana/web3.js@npm:^1.41.0":
+  version: 1.41.0
+  resolution: "@solana/web3.js@npm:1.41.0"
   dependencies:
     "@babel/runtime": ^7.12.5
     "@ethersproject/sha2": ^5.5.0
@@ -1007,7 +1007,7 @@ __metadata:
     secp256k1: ^4.0.2
     superstruct: ^0.14.2
     tweetnacl: ^1.0.0
-  checksum: 40d2f4f629eff06726324e751d0a8e9f08c9c6fcdb3b4e2a62707e23b24046ee8659545686a2ad7a29ea781d9188e77c13f32b958d82d28cf1c5e772dd1a91a4
+  checksum: 008cbe744f69b2813bbae451ab51aed732f6647ec298a60e817e24076b2fec7479e65a9c2976cc780d63977f4ce539c70396396df1aeaebd31f3de0753e0c308
   languageName: node
   linkType: hard
 
@@ -1025,9 +1025,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@soluna-procotol/slna-supply-registry@workspace:.":
+"@soluna-procotol/solust-rebase@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@soluna-procotol/slna-supply-registry@workspace:."
+  resolution: "@soluna-procotol/solust-rebase@workspace:."
   dependencies:
     "@ethersproject/bignumber": ^5.6.0
     "@project-serum/anchor": ^0.24.2
@@ -1039,15 +1039,15 @@ __metadata:
     "@saberhq/token-utils": ^1.12.67
     "@saberhq/use-solana": ^1.12.67
     "@solana/spl-token": ^0.2.0
-    "@solana/web3.js": ^1.39.1
+    "@solana/web3.js": ^1.41.0
     "@types/bn.js": ^5.1.0
     "@types/eslint": ^8.4.1
     "@types/lodash": ^4.14.182
     "@types/node": ^17.0.27
     "@types/prettier": ^2.6.0
     "@types/react": ^18.0.7
-    "@types/react-dom": ^18.0.0
-    axios: ^0.27.0
+    "@types/react-dom": ^18.0.2
+    axios: ^0.27.1
     bn.js: ^5.2.0
     browser-headers: ^0.4.1
     eslint: ^8.14.0
@@ -1056,7 +1056,7 @@ __metadata:
     ethers: ^5.6.4
     husky: ^7.0.4
     jsbi: ^4.3.0
-    lint-staged: ^12.4.0
+    lint-staged: ^12.4.1
     lodash: ^4.17.21
     long: ^5.2.0
     prettier: ^2.6.2
@@ -1236,7 +1236,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^18.0.0":
+"@types/react-dom@npm:^18.0.2":
   version: 18.0.2
   resolution: "@types/react-dom@npm:18.0.2"
   dependencies:
@@ -1649,13 +1649,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.27.0":
-  version: 0.27.0
-  resolution: "axios@npm:0.27.0"
+"axios@npm:^0.27.1":
+  version: 0.27.1
+  resolution: "axios@npm:0.27.1"
   dependencies:
     follow-redirects: ^1.14.9
     form-data: ^4.0.0
-  checksum: 57078fe72c3c01031f2e67c4b48569d15fb54d48aabc9916c0a3619856c958ea9e4e76a313ac83ec9d8d3bbe076c148d98c829a534db11a28513f3f72277fefb
+  checksum: 0da3131125429fcaeb5057c9b7249699c59d48a053d8aaa897089c96e5fa623cf2cf9c3ae36c307235dab495ab7409c87ffbd9b77407624a21403571a492c771
   languageName: node
   linkType: hard
 
@@ -3501,9 +3501,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lint-staged@npm:^12.4.0":
-  version: 12.4.0
-  resolution: "lint-staged@npm:12.4.0"
+"lint-staged@npm:^12.4.1":
+  version: 12.4.1
+  resolution: "lint-staged@npm:12.4.1"
   dependencies:
     cli-truncate: ^3.1.0
     colorette: ^2.0.16
@@ -3521,7 +3521,7 @@ __metadata:
     yaml: ^1.10.2
   bin:
     lint-staged: bin/lint-staged.js
-  checksum: e25b273a73b79f224ff1ccb22432c34a9050fe8318b9cf7e08c748e2efc80e1f48ed4f2aa61cd16a701bb7fd6323ecf0d94a497c97732db04f2b5382d6b70131
+  checksum: b57183b537064cda6caef6679918bf271903145f7c28d09567e918b8b13094048b579f8df808ea590dbd7ea2ec332327c5e372cf3d77e85b7b0254f6541ce4c3
   languageName: node
   linkType: hard
 
