@@ -43,7 +43,7 @@
     "jsbi": "^4.3.0",
     "lodash": "^4.17.21",
     "long": "^5.2.0",
-    "react": "^18.0.0",
+    "react": "^18.1.0",
     "react-dom": "^18.0.0",
     "react-query": "^3.38.0",
     "tiny-invariant": "^1.2.0"
